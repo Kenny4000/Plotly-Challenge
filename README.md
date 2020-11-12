@@ -11,4 +11,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 To Checkout the Project in action, Click on this link: 
 
-https://kenny4000.github.io/Plot.ly-Challenge/
+https://kenny4000.github.io/Plotly-Challenge/
